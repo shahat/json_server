@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "title": "ahmed",
+      "body": "kldfmlsakmdlfkmldaksmflkmdf",
+      "likes": 0,
+      "id": 2
+    },
+    {
+      "title": "dfkjdfjnakjnfdkjansdf",
+      "body": "ldfkfldkflkdfkkjkjkdjf",
+      "likes": 0,
+      "id": 3
+    },
+    {
+      "title": "mariam ",
+      "body": "djfkjdnfj",
+      "likes": 0,
+      "id": 4
+    },
+    {
+      "title": "JS progrmming lang",
+      "body": "js is the best progrmming language ",
+      "likes": 0,
+      "id": 5
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
